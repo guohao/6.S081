@@ -124,6 +124,7 @@ UPROGS=\
 	$U/_pingpong\
 	$U/_primes\
 	$U/_uptime\
+	$U/_find\
 	$U/_echo\
 	$U/_forktest\
 	$U/_grep\
