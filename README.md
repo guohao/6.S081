@@ -7,8 +7,19 @@
 $ make qemu
 ```
 
+
 ## Quit
 
 ```
 <CR>+A x
+```
+
+## GDB
+
+```
+$ make qemu-gdb
+```
+
+```
+$ make gdb
 ```
